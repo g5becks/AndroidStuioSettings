@@ -7,7 +7,11 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Dev/webrpc/_examples/hello-webrpc-dart/name.cpp" timestamp="1592253683628">
+        <mark key="[" line="5" column="0" />
+      </file>
+    </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
